@@ -1,0 +1,33 @@
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__link/page__link.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__button/header__button.css);
+
+@import url(../blocks/hero/hero.css);
+@import url(../blocks/hero/__title/hero__title.css);
+@import url(../blocks/hero/__button/hero__button.css);
+@import url(../blocks/hero/__main-illustration/hero__main-illustration.css);
+
+@import url(../blocks/comfort-zone/comfort-zone.css);
+@import url(../blocks/comfort-zone/__title/comfort-zone__title.css);
+@import url(../blocks/comfort-zone/__button/comfort-zone__button.css);
+@import url(../blocks/comfort-zone/__btn-arrow/comfort-zone__btn-arrow.css);
+@import url(../blocks/comfort-zone/__main-illustration/comfort-zone__main-illustration.css);
+@import url(../blocks/comfort-zone/__candle-gr/comfort-zone__candle-gr.css);
+@import url(../blocks/comfort-zone/__candle-vi/comfort-zone__candle-vi.css);
+
+@import url(../blocks/list/list.css);
+@import url(../blocks/list/__item/list__item.css);
+@import url(../blocks/list/__image/list__image.css);
+@import url(../blocks/list/__description/list__description.css);
+
+@import url(../blocks/burger-menu/burger-menu.css);
+@import url(../blocks/burger-menu/__column-links/burger-menu__column-links.css);
+@import url(../blocks/burger-menu/__column-link/burger-menu__column-link.css);
+@import url(../blocks/burger-menu/__socials/burger-menu__socials.css);
+@import url(../blocks/burger-menu/__social-link/burger-menu__social-link.css);
+@import url(../blocks/burger-menu/__social-icon/burger-menu__social-icon.css);
